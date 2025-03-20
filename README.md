@@ -1,2 +1,2 @@
 # user-management
-This is a sprinboot application for maintaining users with frontend on react
+This is a simple springboot application for maintaining users with frontend on react
